@@ -1,4 +1,4 @@
-package ProgrammingElementa.Level1;
+package ProgrammingElement.Level1;
 public class SamAverage {
     public static void main(String[] args) {
         

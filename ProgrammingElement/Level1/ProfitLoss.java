@@ -1,4 +1,4 @@
-package ProgrammingElementa.Level1;
+package ProgrammingElement.Level1;
 public class ProfitLoss {
     public static void main(String[] args) {
         double CP = 129;

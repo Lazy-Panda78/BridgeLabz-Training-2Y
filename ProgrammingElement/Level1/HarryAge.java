@@ -1,4 +1,4 @@
-package ProgrammingElementa.Level1;
+package ProgrammingElement.Level1;
 import java.util.Scanner;
 
 public class HarryAge {
