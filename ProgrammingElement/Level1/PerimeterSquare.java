@@ -10,6 +10,6 @@ public class PerimeterSquare {
         double perimeter = 4 * side;
         System.out.printf("The perimeter of the square with side length %.2f is %.2f.%n", side, perimeter);
         sc.close(); 
-    }
+    } 
     
 }
